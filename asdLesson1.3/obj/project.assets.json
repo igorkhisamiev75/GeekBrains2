@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GeekBrains\\GeekBrains2\\GeekBrains2\\asdLesson1.3\\asdLesson1.3.csproj",
+      "projectUniqueName": "C:\\GeekBrains2\\GeekBrains2\\asdLesson1.3\\asdLesson1.3.csproj",
       "projectName": "asdLesson1.3",
-      "projectPath": "C:\\GeekBrains\\GeekBrains2\\GeekBrains2\\asdLesson1.3\\asdLesson1.3.csproj",
+      "projectPath": "C:\\GeekBrains2\\GeekBrains2\\asdLesson1.3\\asdLesson1.3.csproj",
       "packagesPath": "C:\\Users\\riks\\.nuget\\packages\\",
-      "outputPath": "C:\\GeekBrains\\GeekBrains2\\GeekBrains2\\asdLesson1.3\\obj\\",
+      "outputPath": "C:\\GeekBrains2\\GeekBrains2\\asdLesson1.3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\riks\\AppData\\Roaming\\NuGet\\NuGet.Config",
