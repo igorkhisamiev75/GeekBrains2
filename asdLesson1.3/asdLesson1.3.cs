@@ -19,7 +19,7 @@ namespace asdLesson1._3
             Console.WriteLine("Введите порядковый номер последовательности Фибоначи:");
             int n = Convert.ToInt32(Console.ReadLine());
             
-
+            //рекурсивным способом
             static int Fibonachi(int n)
              {
                  if (n == 0 || n == 1)
@@ -34,7 +34,7 @@ namespace asdLesson1._3
 
              Console.WriteLine($"F{n} = {Fibonachi(n)} - вычсление рекурсивным способом");
 
-
+            //через цикл
             int n1, n2;
             n1 = 1; 
             n2 = 1;
@@ -59,7 +59,6 @@ namespace asdLesson1._3
 
             Console.WriteLine($"F{n} = {sum} - вычисление через цикл");
             Console.ReadKey();
-
 
         }
     }
